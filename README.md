@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ````javascript
 import aaz.libquickjs;
 
@@ -22,3 +23,7 @@ var v = context.eval(code)
 v.parseValue()
 v.free()
 ````
+=======
+# quickjs-aardio
+aardio
+>>>>>>> beba7fbab937beaffc5a268ed5be02eabef68751
